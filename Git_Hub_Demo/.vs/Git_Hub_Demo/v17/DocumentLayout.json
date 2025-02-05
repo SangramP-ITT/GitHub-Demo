@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub_Demo\\GitHub-Demo\\Git_Hub_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83079DA8-93C2-45C8-8988-EB857DFA8C19}|Git_Hub_Demo\\Git_Hub_Demo.csproj|d:\\github_demo\\github-demo\\git_hub_demo\\git_hub_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83079DA8-93C2-45C8-8988-EB857DFA8C19}|Git_Hub_Demo\\Git_Hub_Demo.csproj|solutionrelative:git_hub_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 454,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub_Demo\\GitHub-Demo\\Git_Hub_Demo\\Git_Hub_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Git_Hub_Demo\\Program.cs",
+              "ToolTip": "D:\\GitHub_Demo\\GitHub-Demo\\Git_Hub_Demo\\Git_Hub_Demo\\Program.cs",
+              "RelativeToolTip": "Git_Hub_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:02:15.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
